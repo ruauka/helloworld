@@ -15,7 +15,7 @@ func TestAdd(t *testing.T) {
 		{
 			num1:     10,
 			num2:     20,
-			expected: 30,
+			expected: 301,
 			testName: "test ok",
 		},
 	}
